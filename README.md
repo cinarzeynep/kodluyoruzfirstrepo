@@ -1,6 +1,6 @@
 # Kodluyoruz First Repo
 This repo is the first repo I created in Front End Education of Kodluyoruz. It contains a README file and an index.html.
-![Repo Image](ilkrepo.PNG)
+![Repo Image](firstrepo.PNG)
 
 ## Installation
 First clone the project. [Github](https://github.com/cinarzeynep/kodluyoruzfirstrepo)
